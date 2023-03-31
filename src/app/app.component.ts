@@ -36,7 +36,7 @@ export class AppComponent implements OnInit {
   is_question! : boolean
   continue! : boolean
   time_index : number = 0
-  timeData = '30'
+  timeData = '45'
   config:any;
   timer : string = 'timer'
   token! : string //= 'dlvrtlk3103'
